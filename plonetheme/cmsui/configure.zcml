@@ -10,6 +10,13 @@
 
   <include package="plone.app.theming" />
   <include package="plone.app.widgets" />
+  <genericsetup:registerProfile
+      name="default"
+      title="CMSUI Theme"
+      directory="profiles/default"
+      description='Example theme for isolated CMSUI from public facing theme'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
 
 
   <!-- Diazo themes -->

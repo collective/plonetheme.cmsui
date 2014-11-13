@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+
+  <layer name="plonetheme.cmsui"
+         interface="plonetheme.cmsui.interfaces.ICMSUILayer"/>
+
+</layers>
