@@ -6,6 +6,7 @@ their theme but still retain a "inplace" editing experience. You can use this li
 as a base for your custom plone theme. Only minimal css is required to incorporate the toolbar in your
 public theme which will only appear when users are logged in.
 
+Requires branch=plonenonui of Products.CMFPlone 
 
 TODO
 ====
